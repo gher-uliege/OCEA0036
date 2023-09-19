@@ -43,3 +43,33 @@ https://alexander-barth.github.io/ROMS.jl/dev/
 The solution of the exercises are available as Julia script:
 
 http://data-assimilation.net/upload/OCEA0036/OCEA0036-julia.tar.gz
+
+
+# Toy models
+## 2D Navier-Stokes equations (with rigid-lid)
+
+The online demo is [avialable here](https://alexander-barth.github.io/FluidSimDemo-WebAssembly/):
+
+
+
+[![image](https://raw.githubusercontent.com/Alexander-Barth/FluidSimDemo-WebAssembly/main/images/test_fluid_sim.png)](https://alexander-barth.github.io/FluidSimDemo-WebAssembly/)
+
+
+## 2D shallow water equations
+
+The shallow water equations model is similar to the 2D Navier-Stokes equations but the implicit pressure solver is replaced by explicit for the free surface. If the time step is too large, the model can be come unstable.
+
+The online demo is [avialable here](https://alexander-barth.github.io/FluidSimDemo-WebAssembly/ShallowWater):
+
+[![image](https://raw.githubusercontent.com/Alexander-Barth/FluidSimDemo-WebAssembly/main/images/ShallowWater.png)](https://alexander-barth.github.io/FluidSimDemo-WebAssembly/ShallowWater)
+
+
+## Smoothed-particle hydrodynamics
+
+The online demo is [avialable here](https://alexander-barth.github.io/FluidSimDemo-WebAssembly/SmoothedParticleHydrodynamics/).
+
+[![image](https://raw.githubusercontent.com/Alexander-Barth/FluidSimDemo-WebAssembly/main/images/SmoothedParticleHydrodynamics.png)](https://alexander-barth.github.io/FluidSimDemo-WebAssembly/SmoothedParticleHydrodynamics/)
+
+The julia code is based on [SmoothedParticleHydrodynamics.jl](https://github.com/Alexander-Barth/SmoothedParticleHydrodynamics.jl)
+
+
