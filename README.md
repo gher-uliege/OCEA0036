@@ -42,7 +42,7 @@ https://alexander-barth.github.io/ROMS.jl/dev/
 
 The solution of the exercises are available as Julia script:
 
-http://data-assimilation.net/upload/OCEA0036/OCEA0036-julia.tar.gz
+https://data-assimilation.net/upload/OCEA0036/OCEA0036-julia.tar.gz
 
 
 # Toy models
