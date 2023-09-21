@@ -25,7 +25,7 @@ The software should be installed before the first lecture. 
 
 # Lecture’s notes
 
-The lecture can be downloaded as a zip file: [OCEA0036-1-revision-1.6.4.zip](http://data-assimilation.net/upload/OCEA0036/OCEA0036-1-revision-1.6.4.zip)
+The lecture can be downloaded as a zip file: [OCEA0036-1-revision-1.6.4.zip](https://data-assimilation.net/upload/OCEA0036/OCEA0036-1-revision-1.6.4.zip)
 
 Note for the ROMS application is available at:
 https://alexander-barth.github.io/ROMS.jl/dev/
