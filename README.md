@@ -32,10 +32,10 @@ https://alexander-barth.github.io/ROMS.jl/dev/
 
 
 # Data for the exercises
-* World Ocean Atlas Temperature ([NetCDF Format](http://data-assimilation.net/upload/OCEA0036/t00an1.nc))
-* World Ocean Atlas Salinity ([NetCDF Format](http://data-assimilation.net/upload/OCEA0036/s00an1.nc))
-* Sea surface height [ssh_20071127.nc](http://data-assimilation.net/upload/OCEA0036/ssh_20071127.nc)
-* Global bathymetry ETOPO 5 ([NetCDF Format](http://data-assimilation.net/upload/OCEA0036/etopo5_adjusted.nc))
+* World Ocean Atlas Temperature ([NetCDF Format](https://data-assimilation.net/upload/OCEA0036/t00an1.nc))
+* World Ocean Atlas Salinity ([NetCDF Format](https://data-assimilation.net/upload/OCEA0036/s00an1.nc))
+* Sea surface height [ssh_20071127.nc](https://data-assimilation.net/upload/OCEA0036/ssh_20071127.nc)
+* Global bathymetry ETOPO 5 ([NetCDF Format](https://data-assimilation.net/upload/OCEA0036/etopo5_adjusted.nc))
 
 
 # Julia scripts
