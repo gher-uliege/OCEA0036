@@ -59,7 +59,7 @@ Explanation of the model is [available here](https://github.com/Alexander-Barth/
 
 ## 2D shallow water equations
 
-The shallow water equations model is similar to the 2D Navier-Stokes equations but the implicit pressure solver is replaced by explicit for the free surface. If the time step is too large, the model can be come unstable.
+The shallow water equations model is similar to the 2D Navier-Stokes equations but the implicit pressure solver is replaced by explicit for the free surface. If the time step is too large, the model can become unstable.
 
 The online demo is [avialable here](https://alexander-barth.github.io/FluidSimDemo-WebAssembly/ShallowWater):
 
