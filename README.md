@@ -9,7 +9,7 @@ It is required that the students install Julia (https://julialang.org/downloads/
 
 ```julia
 using Pkg
-Pkg.add("PyPlot")
+Pkg.add("PythonPlot")
 Pkg.add("NCDatasets")
 Pkg.add("IJulia")
 using PyPlot
