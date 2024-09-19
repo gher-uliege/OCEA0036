@@ -4,7 +4,7 @@ The deadline of the report is the 27 january 2024.
 
 ## Required software
 
-It is required that the students install Julia (https://julialang.org/downloads/). One should also install the packages `PyPlot`, `NCDatasets` and `IJulia` with the following commands to be executed inside the Julia command line interface:
+It is required that the students install Julia (https://julialang.org/downloads/). One should also install the packages `PythonPlot`, `NCDatasets` and `IJulia` with the following commands to be executed inside the Julia command line interface:
 
 
 ```julia
