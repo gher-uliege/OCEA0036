@@ -12,7 +12,7 @@ using Pkg
 Pkg.add("PythonPlot")
 Pkg.add("NCDatasets")
 Pkg.add("IJulia")
-using PyPlot
+using PythonPlot
 using IJulia
 ```
 
