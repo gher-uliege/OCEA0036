@@ -14,6 +14,7 @@ Pkg.add("NCDatasets")
 Pkg.add("IJulia")
 using PythonPlot
 using IJulia
+notebook()
 ```
 
 Please follow the video tutorials about julia available at: https://www.youtube.com/watch?v=76KL8aSz0Sg and https://julialang.org/learning/
