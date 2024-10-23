@@ -21,6 +21,11 @@ Please follow the video tutorials about julia available at: https://www.youtube.
 
 The software should be installed before the first lecture. 
 
+## Data access
+
+For the ROMS modelling lecture, you need access to the ROMS source code and the CMEMS model output. Please register at:
+* [ROMS (Regional Ocean Modeling System)](https://www.myroms.org/index.php?page=RomsCode).
+* [CMEMS (Copernicus Marine Environment Monitoring Service)](https://marine.copernicus.eu/services-portfolio/register-now/)
 
 
 
