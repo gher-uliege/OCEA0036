@@ -3,6 +3,12 @@ Structure and application of numerical ocean models (OCEA0036-1).
 
 The deadline of the report is the 31 January 2025.
 
+Report on either:
+* Exercise 11
+* Exercise 12
+* Exercise 16
+* Changing the ROMS configuration, discussing the impact (for a 2 months simulation or more) 
+
 ## Required software
 
 It is required that the students install Julia (https://julialang.org/downloads/). One should also install the packages `PythonPlot`, `NCDatasets` and `IJulia` with the following commands to be executed inside the Julia command line interface:
