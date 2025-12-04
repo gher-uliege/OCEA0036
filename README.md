@@ -7,7 +7,8 @@ Report on either:
 * Exercise 11
 * Exercise 12
 * Exercise 16
-* Changing the ROMS configuration, discussing the impact (for a 2 months simulation or more) 
+* Changing the ROMS configuration, discussing the impact (for a 2 months simulation or more)
+     *  For ROMS, either use the notebook server or install a Linux virtual machine if you use Windows. 
 
 ## Required software
 
