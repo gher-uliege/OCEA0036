@@ -43,6 +43,7 @@ The lecture can be downloaded as a zip file: [OCEA0036-1-revision-1.6.5.zip](htt
 Note for the ROMS application is available at:
 https://alexander-barth.github.io/ROMS.jl/dev/
 
+Jupyterlab notebook server: https://notebook-gher.uliege.be/
 
 # Data for the exercises
 * World Ocean Atlas Temperature ([NetCDF Format](https://data-assimilation.net/upload/OCEA0036/t00an1.nc))
