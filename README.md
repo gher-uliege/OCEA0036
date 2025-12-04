@@ -8,7 +8,7 @@ Report on either:
 * Exercise 12
 * Exercise 16
 * Changing the ROMS configuration, discussing the impact (for a 2 months simulation or more)
-     *  For ROMS, either use the notebook server or install a Linux virtual machine if you use Windows. 
+     *  For ROMS, either use the [notebook server](https://notebook-gher.uliege.be/) or install a Linux virtual machine if you use Windows. 
 
 ## Required software
 
@@ -44,7 +44,7 @@ The lecture can be downloaded as a zip file: [OCEA0036-1-revision-1.6.5.zip](htt
 Note for the ROMS application is available at:
 https://alexander-barth.github.io/ROMS.jl/dev/
 
-Jupyterlab notebook server: https://notebook-gher.uliege.be/
+Jupyterlab notebook server: https://notebook-gher.uliege.be/ (download your notebooks after each session)
 
 # Data for the exercises
 * World Ocean Atlas Temperature ([NetCDF Format](https://data-assimilation.net/upload/OCEA0036/t00an1.nc))
