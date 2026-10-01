@@ -1,7 +1,7 @@
 # OCEA0036
 Structure and application of numerical ocean models (OCEA0036-1).
 
-The deadline of the report is the 31 January 2025.
+The deadline of the report is the 31 January 2027.
 
 Report on either:
 * Exercise 11
