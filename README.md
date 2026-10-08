@@ -62,6 +62,9 @@ https://data-assimilation.net/upload/OCEA0036/OCEA0036-julia.tar.gz
 
 # Toy models
 
+All models:
+https://alexander-barth.github.io/FluidSimDemo-WebAssembly/all_models.html
+
 ## 2D Navier-Stokes equations (with rigid-lid)
 
 
